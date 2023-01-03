@@ -2,7 +2,7 @@
 - 👀 I’m interested in Deep Learning (especially in NLP, Speech/Audio)
 - 🌱 I’m currently learning NLP
 - 💞️ I’m looking to collaborate on NLP research related work.
-- 📫 How to reach me ...
+- 📫 How to reach me --> soumitradas00002@gmail.com
 
 <!---
 dsoum/dsoum is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
