@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soumitra a former Masters student of IIT Delhi.
-- 👀 I’m interested in research on applications of Deep Learning (especially in NLP, Speech/Music/Audio)
-- 🌱 I’m currently learning NLP
-- 💞️ I’m looking to collaborate on NLP research related work.
+- 👀 I’m interested in research on applications of Deep Learning (especially in NLP, Speech/Music/Audio, vision)
+- 🌱 I’m currently learning GANs
+- 💞️ I’m looking to collaborate on Deep Learning research related work.
 - 📫 How to reach me --> soumitradas00002@gmail.com
 
 <!---
