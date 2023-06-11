@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Soumitra a former Mathematics Masters student of IIT Delhi.
 - 👀 I’m interested in research on applications of Deep Learning (especially in NLP)
 - 🌱 I’m currently learning NLP, GANs, Reinforcement Learning
-- 💞️ I’m looking to collaborate on AI research related work.
+- 💞️ I’m looking to collaborate on NLP research related work.
 - 📫 How to reach me --> soumitradas00002@gmail.com
 
 <!---
