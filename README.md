@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Soumitra a former Mathematics Masters student of IIT Delhi.
+- 👋 Hi, I’m Soumitra, currently a MTech student in Data Science and AI in Data Science and AI department of IIT Madras.
 - 👀 I’m interested in research on applications of Deep Learning (especially in NLP)
 - 🌱 I’m currently learning NLP/Deep Learning/ML... (and every interesting things)
 - 💞️ I’m looking to collaborate on NLP research related work.
